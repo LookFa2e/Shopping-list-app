@@ -16,9 +16,9 @@ Or scan the QR code:
 2. Open the file and follow the installation instructions.
 3. If you see a security warning about blocked installation, go to:
    - `Settings ` → `Security ` → `Unknown Sources` → **Allow**.
-4. Uruchom aplikację i zacznij korzystać! 🎉
+4. Launch the app and start using! 🎉
 
-## 🚀 Funkcje 🚀
+## 🚀 Function 🚀
 - 📋 Create and manage shopping lists
 - ✅ Mark purchased products
 - 🔄 Synchronize lists
